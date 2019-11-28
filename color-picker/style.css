@@ -1,0 +1,29 @@
+#palette {
+	border: 1px solid #000;
+	margin: 10px;
+}
+
+.swatch {
+	display: block;
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	float: left;
+}
+
+#red {
+	background: red;
+}
+
+#blue {
+	background: blue;
+}
+
+#green {
+	background: green;
+}
+
+#content {
+	clear: both;
+}
+
