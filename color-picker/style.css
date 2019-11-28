@@ -3,6 +3,10 @@
 	margin: 10px;
 }
 
+.clearfix {
+	clear: both;
+}
+
 .swatch {
 	display: block;
 	width: 100px;
